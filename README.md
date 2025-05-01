@@ -164,8 +164,7 @@ const sumit = {
       <h3 align="center">Crowdfunding Platform</h3>
       <div align="center">  
         <a href="https://github.com/Sumit6569/crowdfunding-platform" target="_blank">
-          <img src="https://github.com/user-attachments/assets/ead9faf1-0605-47ea-b43b-392c039304e1
-" alt="Project 1" width="100%" />
+          <img src="https://github.com/Sumit6569/fundrise-nexus-project/raw/main/Screenshot 2025-05-01 143955.png" alt="Project 1" width="100%" />
         </a>
         <br><br>
         <p>
@@ -179,24 +178,26 @@ const sumit = {
         <p><strong>React, TypeScript, Tailwind CSS, Node.js</strong> - A complete crowdfunding solution with user authentication, campaign creation and management, and secure payment processing.</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">Open Source UI Library</h3>
-      <div align="center">  
-        <a href="https://github.com/Sumit6569/react-component-library" target="_blank">
-          <img src="https://i.imgur.com/ZKTteLs.png" alt="Project 2" width="100%" />
-        </a>
-        <br><br>
-        <p>
-          <a href="https://github.com/Sumit6569/react-component-library" target="_blank">
-            <img src="https://img.shields.io/badge/Code-github-3A3B3C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
-          </a>  
-          <a href="https://react-components-demo.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-demo-7E4DD2?style=for-the-badge" alt="Live Demo" />
-          </a>
-        </p>
-        <p><strong>React, Typescript, Storybook</strong> - A collection of reusable React components with comprehensive documentation and examples. Contributed to by multiple open source developers.</p>
-      </div>
-    </td>
+<td width="50%">
+  <h3 align="center">Movie Trailer Watch</h3>
+  <div align="center">  
+    <a href="https://front-end-project-weld.vercel.app/" target="_blank">
+      <img src="https://i.imgur.com/abc1234.png" alt="Movie Trailer Watch" width="100%" />
+    </a>
+    <br><br>
+    <p>
+      <a href="https://github.com/Sumit6569/FrontEnd-Project" target="_blank">
+        <img src="https://img.shields.io/badge/Code-GitHub-3A3B3C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
+      </a>  
+      <a href="https://front-end-project-weld.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-FF5733?style=for-the-badge" alt="Live Demo" />
+      </a>
+    </p>
+    <p><strong>React, Tailwind CSS, Redux, IMDB API</strong> – A responsive movie trailer app to browse, search, and watch trailers with real-time data from IMDB.</p>
+  </div>
+</td>
+
+
   </tr>
 </table>
 
