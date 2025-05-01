@@ -4,16 +4,17 @@
 # ✨ Hello, World! I'm Sumit ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Computer+Science+Student;UI%2FUX+Enthusiast" alt="Typing SVG" />
-
-<a href="https://www.linkedin.com/in/sumit-kumar">
+<br/>
+<a href="https://www.linkedin.com/in/sumit-kumar-22002b273">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/sumit_018">
+<a href="https://instagram.com/sumitk_018">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://github.com/Sumit6569">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Sumit6569&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -163,12 +164,12 @@ const sumit = {
     <td width="50%">
       <h3 align="center">Crowdfunding Platform</h3>
       <div align="center">  
-        <a href="https://github.com/Sumit6569/crowdfunding-platform" target="_blank">
+        <a href="https://github.com/Sumit6569/fundrise-nexus-project" target="_blank">
           <img src="https://github.com/Sumit6569/fundrise-nexus-project/raw/main/Screenshot 2025-05-01 143955.png" alt="Project 1" width="100%" />
         </a>
         <br><br>
         <p>
-          <a href="https://github.com/Sumit6569/crowdfunding-platform" target="_blank">
+          <a href="https://github.com/Sumit6569/fundrise-nexus-project" target="_blank">
             <img src="https://img.shields.io/badge/Code-github-3A3B3C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
           </a>  
           <a href="https://fundrise-nexus-project.vercel.app/" target="_blank">
@@ -241,7 +242,7 @@ const sumit = {
 <div align="center">
 
 ### 📫 How to reach me:
-<a href="mailto:sumit.kumar@example.com">
+<a href="mailto:infosumitkumar3322@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
